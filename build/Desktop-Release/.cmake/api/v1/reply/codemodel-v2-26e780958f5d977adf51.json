@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-bc21d8d2d2a17cacb888.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DesktopFileCreator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DesktopFileCreator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DesktopFileCreator-Release-060344b6dbe130121ffb.json",
+					"name" : "DesktopFileCreator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DesktopFileCreator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DesktopFileCreator_autogen-Release-f49bd41fde2c13ef3c3c.json",
+					"name" : "DesktopFileCreator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DesktopFileCreator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DesktopFileCreator_autogen_timestamp_deps-Release-de622b96d6b49d5f2171.json",
+					"name" : "DesktopFileCreator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release",
+		"source" : "/home/john/qtstuff/DesktopFileCreator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

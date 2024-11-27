@@ -1,0 +1,11 @@
+# ninja log v5
+4	33	1725576470953283406	DesktopFileCreator_autogen/timestamp	e7852a5d64922d7c
+4	33	1725576470953283406	DesktopFileCreator_autogen/mocs_compilation.cpp	e7852a5d64922d7c
+4	33	1725576470953283406	/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/DesktopFileCreator_autogen/timestamp	e7852a5d64922d7c
+4	33	1725576470953283406	/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/DesktopFileCreator_autogen/mocs_compilation.cpp	e7852a5d64922d7c
+34	1458	1725576472379337632	CMakeFiles/DesktopFileCreator.dir/mainwindow.cpp.o	5fae9dfd7836df2f
+34	1948	1725576472869356247	CMakeFiles/DesktopFileCreator.dir/main.cpp.o	f6b7f3e920dfaaa9
+14	17	0	clean	a31eedcededa8236
+224	1522	1725513301278518956	CMakeFiles/DesktopFileCreator.dir/DesktopFileCreator_autogen/mocs_compilation.cpp.o	913d5a0906ae6e67
+1949	2304	1725576473221369609	DesktopFileCreator	da91ae2c2eccefb2
+3	14	0	CMakeFiles/clean.additional	b7f779938bef587c

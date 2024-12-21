@@ -1,9 +1,0 @@
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/DesktopFileCreator.dir
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/edit_cache.dir
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/list_install_components.dir
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/install.dir
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/install/local.dir
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/install/strip.dir
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/DesktopFileCreator_autogen_timestamp_deps.dir
-/home/john/qtstuff/DesktopFileCreator/build/Desktop-Release/CMakeFiles/DesktopFileCreator_autogen.dir
